@@ -18,10 +18,10 @@ Je suis actuellement en formation, ce qui me permet de développer et de perfect
 
 
 
+
 ## 🛠️ Compétences
 
 - **Langages de programmation et frameworks :**
-## 🛠️ Compétences
 
 | Backend                                           | Frontend                                          |
 |----------------------------------------------------|---------------------------------------------------|
