@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Yanis Renard-Dumont (pseudo : Alweare)
+# 👋 Bonjour, je suis Yanis 'Alweare' Renard-Dumont
 
 <div align="center">
   <img src="https://media1.tenor.com/m/_HPofCxgZcAAAAAC/mr-robot-elliot-alderson.gif" alt="Header GIF">
