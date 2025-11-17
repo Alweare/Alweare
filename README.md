@@ -6,11 +6,11 @@
 
 ## À propos de moi
 
-Je suis un développeur Full Stack passionné par Java et Angular, actuellement en formation CDA à l'ENI. Mon objectif est de devenir développeur Full Stack senior spécialisé en Java. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et évoluer dans ce domaine.
+Je suis un développeur Full Stack passionné par Java et Angular, actuellement en formation EADL à l'ENI. Mon objectif est de devenir développeur Full Stack senior spécialisé en Java. Je suis toujours à la recherche de nouvelles opportunités pour apprendre et évoluer dans ce domaine.
 
 ## 🎓 Formation
 
-- **CDA à l'ENI**
+- **EADL (Expert Architecture Developpement Logiciel) à l'ENI**
 
 ## 💼 Expérience professionnelle
 
