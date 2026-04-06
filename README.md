@@ -10,7 +10,8 @@ Je suis un développeur Full Stack passionné par Java et Angular, actuellement 
 
 ## 🎓 Formation
 
-- **EADL (Expert Architecture Developpement Logiciel) à l'ENI**
+- **EADL (Expert Architecture Developpement Logiciel) à l'ENI, en cours**
+- **CDA (Concepteur Développeur d'Application) RNCP équivalent bac +4, obtenu**
 
 ## 💼 Expérience professionnelle
 
